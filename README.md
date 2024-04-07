@@ -1,7 +1,6 @@
 # minimal_weather_app
 
-App para previsão do tempo bem minimalista, desenvolvido com ajuda de um video do Mitch_Koko, para fins de estudo.
+App para previsão do tempo bem minimalista, desenvolvido para fins de aprendizado.
 Neste app trabalhei com:
-- Chamadas de API;
+- API REST;
 - Geolocalização;
-- Lottie animations.
