@@ -34,7 +34,7 @@ The project was developed using the following technologies
 
 ## 🎮 How to download
 
-To run the project, you must have the Flutter SDK and Android Studio downloaded on your machine.
+To run the project, you must have the Flutter SDK and Android Studio downloaded on your machine.<br>
 To do this process step by step, visit [Flutter's "Get started" page](https://docs.flutter.dev/get-started/install).
 
 ```bash
