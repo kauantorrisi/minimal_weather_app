@@ -100,7 +100,7 @@ class _WeatherPageState extends State<WeatherPage> {
 
             // temperature
             Text(
-              '${_weather?.temperature.round().toString()}ºC',
+              '${_weather?.temperature.round().toString() ?? "0"}ºC',
               style: const TextStyle(
                 color: Colors.white,
                 fontSize: 20,
@@ -109,7 +109,6 @@ class _WeatherPageState extends State<WeatherPage> {
             ),
 
             // weather condition
-
             Text(
               _weather?.mainCondition ?? '',
               style: const TextStyle(color: Colors.white, fontSize: 20),
