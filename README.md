@@ -1,5 +1,6 @@
-<h1 align="center">
-    <img src="https://ik.imagekit.io/dzojbyqyz/cover.png?updatedAt=1713803120525">   
+<h1 align="center" justify-content="space-evenly">
+    <img src="assets/weather-app-requesting-localization.png">
+    <img src="assets/weather-app.png">
 </h1>
 
 # 🔍 Summary
@@ -39,7 +40,7 @@ To do this process step by step, visit [Flutter's "Get started" page](https://do
 ```bash
 
     # Clone the repository
-    $ git clone https://github.com/kauantorrisi/minimal_weather_app
+    $ git clone https://github.com/kauantorrisi/minimal_weather_app.git
 
     # Install the dependencies
     $ flutter pub get
