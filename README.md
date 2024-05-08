@@ -1,7 +1,7 @@
-<h1 align="center" justify-content="space-evenly">
-    <img src="assets/weather-app-requesting-localization.png">
-    <img src="assets/weather-app.png">
-</h1>
+<div align="center">
+    <img src="assets/weather-app-requesting-localization.png" width="300px">
+    <img src="assets/weather-app.png" width="300px">
+</div>
 
 # 🔍 Summary
 
