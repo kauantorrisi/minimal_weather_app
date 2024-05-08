@@ -34,6 +34,8 @@ The project was developed using the following technologies
 
 ## 🎮 How to download
 
+Go to the [releases](https://github.com/kauantorrisi/minimal_weather_app/releases/tag/release) and download the file called app-release on your Android device.<br>
+
 To run the project, you must have the Flutter SDK and Android Studio downloaded on your machine.<br>
 To do this process step by step, visit [Flutter's "Get started" page](https://docs.flutter.dev/get-started/install).
 
