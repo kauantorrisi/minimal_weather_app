@@ -13,8 +13,8 @@
 
 ## 📗 About
 
-The project consists of an application where you can access the weather forecast for your location;
-I made this app with the aim of studying geolocation and API requests;
+The project consists of an application where you can access the weather forecast for your location;<br>
+I made this app with the aim of studying geolocation and API requests;<br>
 To do this, I developed the app by watching a YouTube tutorial, which I will provide the link [here](https://www.youtube.com/watch?v=yLtpMqvMgdY&t=234s);
 
 ---
