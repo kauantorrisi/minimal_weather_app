@@ -84,6 +84,8 @@ class _WeatherPageState extends State<WeatherPage> {
             Text(
               _weather?.cityName ??
                   'Procurando a cidade que você está localizado..',
+              textAlign: TextAlign.center,
+              maxLines: 2,
               style: const TextStyle(
                 color: Colors.white,
                 fontSize: 20,
